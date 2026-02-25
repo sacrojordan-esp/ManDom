@@ -1,4 +1,7 @@
 {
+    "MiniPlanchaViajes": {
+        "name": "MINI PLANCHA PARA VIAJES", "count": 0
+    },
     "SoportePowerBank": {
         "name": "SOPORTE POWER BANK", "count": 0
     },
@@ -33,7 +36,7 @@
         "count": 0
     },
     "B_CABELLO_LACIO_CASTANO_ROJIZO_CON_GORRA_NEGRA": {
-        "name": "#B CABELLO LACIO CASTAÑO ROJIZO CON GORRA NEGRA",
+        "name": "#B CABELLO LACIO CASTAÑO ROJIZO CON GORRA",
         "count": 0
     },
     "CabelloOnduladoCastanoRojizoConGorraNegra": {
@@ -46,6 +49,10 @@
     },
     "H_CABELLO_ONDAS_CON_MECHAS_RU": {
         "name": "#H CABELLO ONDAS CON MECHAS RU",
+        "count": 0
+    },
+    "J_CABELLO_ONDAS_CON_MECHAS_RU": {
+        "name": "#J CABELLO ONDAS CASTAÑO ROJIZO CON GORRA",
         "count": 0
     },
 
@@ -96,9 +103,6 @@
     "PeineAlisadorPortatil": {
         "name": "PEINE ALISADOR PORTATIL", "count": 0
     },
-    "MiniPlanchaViajes": {
-        "name": "MINI PLANCHA PARA VIAJES", "count": 0
-    },
     "CeraFijadoraCabelloHombre": {
         "name": "CERA FIJADORA DE CABELLO HOMBRE", "count": 0
     },
@@ -108,15 +112,14 @@
     "LapizMaquillaje4En1": {
         "name": "LAPIZ DE MAQUILLAJE 4 EN 1", "count": 0
     },
-    "RegaloMujer": {
-        "name": "PRODUCTO REGALO MUJER", "count": 0
+    "Kit4polvosMaquillajeEspejo": {
+        "name": "KIT DE 4 POLVOS DE MAQUILLAJE CON ESPEJO", "count": 0
     },
-    "RegaloNiñas": {
-        "name": "PRODUCTO REGALO NIÑAS", "count": 0
-    },
-
     "SetLibrosPintarAgua": {
         "name": "SET DE LIBROS PARA PINTAR CON AGUA", "count": 0
+    },
+    "SetLibros4PintarAgua": {
+        "name": "SET DE LIBROS 4 LIBROS PARA PINTAR CON AGUA", "count": 0
     },
     "SetLibrosCaligrafia": {
         "name": "SET DE 4 LIBROS CALIGRAFÍA", "count": 0
@@ -164,8 +167,14 @@
     "BrocasEscalonadas": {
         "name": "SET DE 3 BROCAS ESCALONADAS DE TITANIO", "count": 0
     },
+    "RegaloMujer": {
+        "name": "PRODUCTO REGALO MUJER", "count": 0
+    },
     "RegaloHombre": {
         "name": "PRODUCTO REGALO HOMBRE", "count": 0
+    },
+    "RegaloNiñas": {
+        "name": "PRODUCTO REGALO NIÑAS", "count": 0
     },
     "RegaloNiños": {
         "name": "PRODUCTO REGALO NIÑOS", "count": 0
