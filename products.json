@@ -178,6 +178,48 @@
     },
     "RegaloNiños": {
         "name": "PRODUCTO REGALO NIÑOS", "count": 0
+    },
+    "SetRodillosMatematicaKids": {
+        "name": "SET DE 4 RODILLOS MATEMATICA KIDS", "count": 0
+    },
+    "LapizLabial5en1": {
+        "name": "LAPIZ LABIAL 5 EN 1", "count": 0
+    },
+    "Pack4ColoniasCabello": {
+        "name": "PACK DE 4 COLONIAS PARA CABELLO", "count": 0
+    },
+    "AdaptadorTaladro": {
+        "name": "ADAPTADOR DE TALADRO", "count": 0
+    },
+    "SprayImpermeabilizante250ml": {
+        "name": "Spray Impermeabilizante Anti-Lluvias 250 ml Original", "count": 0
+    },
+    "CepilloElectrico9en1": {
+        "name": "CEPILLO ELECTRICO LIMPIADOR 9 EN 1", "count": 0
+    },
+        "KCabelloOndasNegroConGorraNegra": {
+        "name": "#K CABELLO ONDAS NEGRO CON GORRA NEGRA",
+        "count": 0
+    },
+    "LibroEducativoReutilizableParaPintarConAguaNinonina": {
+        "name": "LIBRO EDUCATIVO REUTILIZABLE PARA PINTAR CON",
+        "count": 0
+    },
+    "MiniLinternaTactica": {
+        "name": "MINI LINTERNA TACTICA",
+        "count": 0
+    },
+    "PackDe2LentesDeConduccion": {
+        "name": "PACK DE 2 LENTES DE CONDUCCION",
+        "count": 0
+    },
+    "SopladorDeAireComprimido": {
+        "name": "SOPLADOR DE AIRE COMPRIMIDO",
+        "count": 0
+    },
+    "SujetadorDeSeguridadParaCelular2En1": {
+        "name": "SUJETADOR DE SEGURIDAD PARA CELULAR 2 EN 1",
+        "count": 0
     }
 }
 
