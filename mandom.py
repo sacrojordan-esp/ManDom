@@ -12,7 +12,15 @@ from reportlab.pdfgen import canvas
 # CONFIG
 # -----------------------------
 
-PRODUCTS_JSON = "products.json"
+PRODUCTS_JSON = "products2.json"
+
+# productos que NO definen agrupación
+SECONDARY_PRODUCTS = [
+    "PRODUCTO REGALO HOMBRE",
+    "PRODUCTO REGALO MUJER",
+    "PRODUCTO REGALO NIÑOS",
+    "PRODUCTO REGALO NIÑAS"
+]
 
 
 # -----------------------------
@@ -93,11 +101,22 @@ for pdf_file in pdf_files:
                 found_products.append(product)
 
                 product_counts[product] += qty
-            
+
+        # -----------------------------
+        # detectar producto principal
+        # -----------------------------
+
+        main_product = None
+
+        for p in found_products:
+            if p not in SECONDARY_PRODUCTS:
+                main_product = p
+                break
 
         pages_data.append({
             "index": i,
-            "products": found_products
+            "products": found_products,
+            "main_product": main_product
         })
 
 
@@ -108,11 +127,15 @@ for pdf_file in pdf_files:
     ordered_indexes = []
     used = set()
 
+    # ordenar por producto principal
     for product in product_names:
+
+        if product in SECONDARY_PRODUCTS:
+            continue
 
         for p in pages_data:
 
-            if product in p["products"] and p["index"] not in used:
+            if p["main_product"] == product and p["index"] not in used:
 
                 ordered_indexes.append(p["index"])
                 used.add(p["index"])
@@ -191,4 +214,3 @@ for pdf_file in pdf_files:
         writer.write(f)
 
     print("PDF generado:", output_name)
-

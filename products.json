@@ -1,241 +1,63 @@
 {
-    "MiniPlanchaViajes": {
-        "name": "MINI PLANCHA PARA VIAJES", "count": 0
-    },
-    "SoportePowerBank": {
-        "name": "SOPORTE POWER BANK", "count": 0
-    },
-    "SoporteHolderImantado": {
-        "name": "SOPORTE HOLDER IMANTADO", "count": 0
-    },
-    "RemovedorOxido": {
-        "name": "REMOVEDOR DE OXIDO", "count": 0
-    },
-    "DestornilladorRatchet": {
-        "name": "JUEGO DE DESTORNILLADORES RATCHET", "count": 0
-    },
-    "ParcheColageno": {
-        "name": "PARCHE FACIAL DE COLAGENO", "count": 0
-    },
-    "CandidaCleanseCapsulas": {
-        "name": "CANDIDA CLEANSE CAPSULAS", "count": 0
-    },
-    "DestornilladorGomax": {
-        "name": "DESTORNILLADOR ELECTRICO GOMAX", "count": 0
-    },
-    "DestornilladorElectricoMasterKitRecargable24PCS": {
-        "name": "DESTORNILLADOR ELECTRICO MASTER KIT", "count": 0
-    },
+    "MiniPlanchaViajes": { "name": "MINI PLANCHA PARA VIAJES", "count": 0 },
+    "SoportePowerBank": { "name": "SOPORTE POWER BANK", "count": 0 },
+    "SoporteHolderImantado": { "name": "SOPORTE HOLDER IMANTADO", "count": 0 },
+    "RemovedorOxido": { "name": "REMOVEDOR DE OXIDO", "count": 0 },
+    "DestornilladorRatchet": { "name": "JUEGO DE DESTORNILLADORES RATCHET", "count": 0 },
+    "ParcheColageno": { "name": "PARCHE FACIAL DE COLAGENO", "count": 0 },
+    "CandidaCleanseCapsulas": { "name": "CANDIDA CLEANSE CAPSULAS", "count": 0 },
+    "DestornilladorGomax": { "name": "DESTORNILLADOR ELECTRICO GOMAX", "count": 0 },
+    "DestornilladorElectricoMasterKitRecargable24PCS": { "name": "DESTORNILLADOR ELECTRICO MASTER KIT", "count": 0 },
 
-    "GorraConCabelloLacioNegro": {
-        "name": "#1 GORRA CON CABELLO LACIO NEGRO",
-        "count": 0
-    },
-    "A_CABELLO_LACIO_NEGRO_CON_GORRA_NEGRA": {
-        "name": "#A CABELLO LACIO NEGRO CON GORRA NEGRA",
-        "count": 0
-    },
-    "B_CABELLO_LACIO_CASTANO_ROJIZO_CON_GORRA_NEGRA": {
-        "name": "#B CABELLO LACIO CASTAÑO ROJIZO CON GORRA",
-        "count": 0
-    },
-    "CabelloOnduladoCastanoRojizoConGorraNegra": {
-        "name": "#C CABELLO ONDULADO CASTAÑO ROJIZO",
-        "count": 0
-    },
-    "CabelloOndasCastanoClaroConGorraMarron": {
-        "name": "#D CABELLO ONDAS CASTAÑO CLARO CON GORRA",
-        "count": 0
-    },
-    "H_CABELLO_ONDAS_CON_MECHAS_RU": {
-        "name": "#H CABELLO ONDAS CON MECHAS RU",
-        "count": 0
-    },
-    "J_CABELLO_ONDAS_CON_MECHAS_RU": {
-        "name": "#J CABELLO ONDAS CASTAÑO ROJIZO CON GORRA",
-        "count": 0
-    },
+    "GorraConCabelloLacioNegro": { "name": "#1 GORRA CON CABELLO LACIO NEGRO", "count": 0 },
+    "A_CABELLO_LACIO_NEGRO_CON_GORRA_NEGRA": { "name": "#A CABELLO LACIO NEGRO CON GORRA NEGRA", "count": 0 },
+    "B_CABELLO_LACIO_CASTANO_ROJIZO_CON_GORRA_NEGRA": { "name": "#B CABELLO LACIO CASTAÑO ROJIZO CON GORRA", "count": 0 },
+    "CabelloOnduladoCastanoRojizoConGorraNegra": { "name": "#C CABELLO ONDULADO CASTAÑO ROJIZO", "count": 0 },
+    "CabelloOndasCastanoClaroConGorraMarron": { "name": "#D CABELLO ONDAS CASTAÑO CLARO CON GORRA", "count": 0 },
+    "H_CABELLO_ONDAS_CON_MECHAS_RU": { "name": "#H CABELLO ONDAS CON MECHAS RU", "count": 0 },
+    "J_CABELLO_ONDAS_CON_MECHAS_RU": { "name": "#J CABELLO ONDAS CASTAÑO ROJIZO CON GORRA", "count": 0 },
 
-    "PackDe2CintasDobleContacto": {
-        "name": "PACK DE 2 CINTAS TRANSPARENTES DOBLE.C",
-        "count": 0
-    },
-    "PackDe2CintasImpermeables": {
-        "name": "PACK DE 2 CINTAS IMPERMEABLES",
-        "count": 0
-    },
-    "FormulaLimpiezaSolubril": {
-        "name": "FORMULA DE LIMPIEZA SOLUBRIL", "count": 0
-    },
+    "PackDe2CintasDobleContacto": { "name": "PACK DE 2 CINTAS TRANSPARENTES DOBLE.C", "count": 0 },
+    "PackDe2CintasImpermeables": { "name": "PACK DE 2 CINTAS IMPERMEABLES", "count": 0 },
+    "FormulaLimpiezaSolubril": { "name": "FORMULA DE LIMPIEZA SOLUBRIL", "count": 0 },
 
-    "Set24Acrilicos": {
-        "name": "SET DE 24 PLUMONES ACRILICOS", "count": 0
-    },
-    "Set12Acrilicos": {
-        "name": "SET DE 12 PLUMONES ACRILICOS", "count": 0
-    },
-    "Set8DobleLinea": {
-        "name": "SET DE 8 PLUMONES DOBLE LINEA", "count": 0
-    },
-    "KitBoligrafosUñas": {
-        "name": "KIT DE 12 BOLIGRAFOS PARA UÑAS", "count": 0
-    },
-    "BarnizVitral": {
-        "name": "BARNIZ VITRAL", "count": 0
-    },
+    "Set24Acrilicos": { "name": "SET DE 24 PLUMONES ACRILICOS", "count": 0 },
+    "Set12Acrilicos": { "name": "SET DE 12 PLUMONES ACRILICOS", "count": 0 },
+    "Set8DobleLinea": { "name": "SET DE 8 PLUMONES DOBLE LINEA", "count": 0 },
+    "KitBoligrafosUñas": { "name": "KIT DE 12 BOLIGRAFOS PARA UÑAS", "count": 0 },
+    "BarnizVitral": { "name": "BARNIZ VITRAL", "count": 0 },
 
-    "ExtensorTomaCorriente": {
-        "name": "EXTENSOR DE TOMA CORRIENTE 4 EN 1", "count": 0
-    },
+    "ExtensorTomaCorriente": { "name": "EXTENSOR DE TOMA CORRIENTE 4 EN 1", "count": 0 },
 
-    "AceiteCorporalBrillante": {
-        "name": "ACEITE CORPORAL BRILLANTE", "count": 0
-    },
-    "CremaSnowBleach": {
-        "name": "CREMA SNOW BLEACH", "count": 0
-    },
-    "DelineadorCatEyeEverBeauty": {
-        "name": "DELINEADOR CAT EYE EVER BEAUTY", "count": 0
-    },
-    "ColoniaParaCabello": {
-        "name": "COLONIA PARA CABELLO", "count": 0
-    },
-    "PeineAlisadorPortatil": {
-        "name": "PEINE ALISADOR PORTATIL", "count": 0
-    },
-    "CeraFijadoraCabelloHombre": {
-        "name": "CERA FIJADORA DE CABELLO HOMBRE", "count": 0
-    },
-    "ParcheDesintoxicante": {
-        "name": "CAJA DE 10 PARCHES DESINTOXICANTES", "count": 0
-    },
-    "LapizMaquillaje4En1": {
-        "name": "LAPIZ DE MAQUILLAJE 4 EN 1", "count": 0
-    },
-    "Kit4polvosMaquillajeEspejo": {
-        "name": "KIT DE 4 POLVOS DE MAQUILLAJE CON ESPEJO", "count": 0
-    },
-    "SetLibrosPintarAgua": {
-        "name": "SET DE LIBROS PARA PINTAR CON AGUA", "count": 0
-    },
-    "SetLibros4PintarAgua": {
-        "name": "SET DE LIBROS 4 LIBROS PARA PINTAR CON AGUA", "count": 0
-    },
-    "SetLibrosCaligrafia": {
-        "name": "SET DE 4 LIBROS CALIGRAFÍA", "count": 0
-    },
-    "SetLibroPreEscolar": {
-        "name": "SET DE LIBRO PRE-ESCOLAR A4", "count": 0
-    },
+    "AceiteCorporalBrillante": { "name": "ACEITE CORPORAL BRILLANTE", "count": 0 },
+    "CremaSnowBleach": { "name": "CREMA SNOW BLEACH", "count": 0 },
+    "DelineadorCatEyeEverBeauty": { "name": "DELINEADOR CAT EYE EVER BEAUTY", "count": 0 },
+    "ColoniaParaCabello": { "name": "COLONIA PARA CABELLO", "count": 0 },
+    "PeineAlisadorPortatil": { "name": "PEINE ALISADOR PORTATIL", "count": 0 },
+    "CeraFijadoraCabelloHombre": { "name": "CERA FIJADORA DE CABELLO HOMBRE", "count": 0 },
+    "ParcheDesintoxicante": { "name": "CAJA DE 10 PARCHES DESINTOXICANTES", "count": 0 },
+    "LapizMaquillaje4En1": { "name": "LAPIZ DE MAQUILLAJE 4 EN 1", "count": 0 },
+    "Kit4polvosMaquillajeEspejo": { "name": "KIT DE 4 POLVOS DE MAQUILLAJE CON ESPEJO", "count": 0 },
 
-    "BrasierInvisibleStrapleTallaA": {
-        "name": "BRASIER INVISIBLE STRAPLE- TALLA A", "count": 0
-    },
-    "BrasierInvisibleStrapleTallaB": {
-        "name": "BRASIER INVISIBLE STRAPLE- TALLA B", "count": 0
-    },
-    "BrasierInvisibleStrapleTallaC": {
-        "name": "BRASIER INVISIBLE STRAPLE- TALLA C", "count": 0
-    },
-    "BrasierInvisibleStrapleTallaD": {
-        "name": "BRASIER INVISIBLE STRAPLE- TALLA D", "count": 0
-    },
-    "StraplessPushUpA": {
-        "name": "STRAPLESS PUSH-UP BRA - TALLA A", "count": 0
-    },
-    "StraplessPushUpB": {
-        "name": "STRAPLESS PUSH-UP BRA - TALLA B", "count": 0
-    },
-    "StraplessPushUpC": {
-        "name": "STRAPLESS PUSH-UP BRA - TALLA C", "count": 0
-    },
-    "StraplessPushUpD": {
-        "name": "STRAPLESS PUSH-UP BRA - TALLA D", "count": 0
-    },
+    "SetLibrosPintarAgua": { "name": "SET DE LIBROS PARA PINTAR CON AGUA", "count": 0 },
+    "SetLibros4PintarAgua": { "name": "SET DE LIBROS 4 LIBROS PARA PINTAR CON AGUA", "count": 0 },
+    "SetLibrosCaligrafia": { "name": "SET DE 4 LIBROS CALIGRAFÍA", "count": 0 },
+    "SetLibroPreEscolar": { "name": "SET DE LIBRO PRE-ESCOLAR A4", "count": 0 },
 
-    "CojinMasajeador": {
-        "name": "COJIN MASAJEADOR MULTIFUNCIONAL", "count": 0
-    },
+    "CangureraCueroNegro": { "name": "CANGURERA DE CUERO PU PARA HOMBRE - NE", "count": 0 },
+    "CangureraCueroMarron": { "name": "CANGURERA DE CUERO PU PARA HOMBRE - MAR", "count": 0 },
+    "CangureraCuero": { "name": "CANGURERA DE CUERO PU PARA HOMBRE", "count": 0 },
 
-    "AfeitadorProfesional": {
-        "name": "AFEITADOR PROFESIONAL", "count": 0
-    },
+    "BrocasEscalonadas": { "name": "SET DE 3 BROCAS ESCALONADAS DE TITANIO", "count": 0 },
 
-    "CangureraCueroNegro": {
-        "name": "CANGURERA DE CUERO PU PARA HOMBRE - NE", "count": 0
-    },
-    "CangureraCueroMarron": {
-        "name": "CANGURERA DE CUERO PU PARA HOMBRE - MAR", "count": 0
-    },
-    "CangureraCuero": {
-        "name": "CANGURERA DE CUERO PU PARA HOMBRE", "count": 0
-    },
+    "RegaloMujer": { "name": "PRODUCTO REGALO MUJER", "count": 0 },
+    "RegaloHombre": { "name": "PRODUCTO REGALO HOMBRE", "count": 0 },
+    "RegaloNiñas": { "name": "PRODUCTO REGALO NIÑAS", "count": 0 },
+    "RegaloNiños": { "name": "PRODUCTO REGALO NIÑOS", "count": 0 },
 
-    "BrocasEscalonadas": {
-        "name": "SET DE 3 BROCAS ESCALONADAS DE TITANIO", "count": 0
-    },
-    "RegaloMujer": {
-        "name": "PRODUCTO REGALO MUJER", "count": 0
-    },
-    "RegaloHombre": {
-        "name": "PRODUCTO REGALO HOMBRE", "count": 0
-    },
-    "RegaloNiñas": {
-        "name": "PRODUCTO REGALO NIÑAS", "count": 0
-    },
-    "RegaloNiños": {
-        "name": "PRODUCTO REGALO NIÑOS", "count": 0
-    },
-    "SetRodillosMatematicaKids": {
-        "name": "SET DE 4 RODILLOS MATEMATICA KIDS", "count": 0
-    },
-    "LapizLabial5en1": {
-        "name": "LAPIZ LABIAL 5 EN 1", "count": 0
-    },
-    "Pack4ColoniasCabello": {
-        "name": "PACK DE 4 COLONIAS PARA CABELLO", "count": 0
-    },
-    "AdaptadorTaladro": {
-        "name": "ADAPTADOR DE TALADRO", "count": 0
-    },
-    "SprayImpermeabilizante250ml": {
-        "name": "Spray Impermeabilizante Anti-Lluvias 250 ml Original", "count": 0
-    },
-    "CepilloElectrico9en1": {
-        "name": "CEPILLO ELECTRICO LIMPIADOR 9 EN 1", "count": 0
-    },
-        "KCabelloOndasNegroConGorraNegra": {
-        "name": "#K CABELLO ONDAS NEGRO CON GORRA NEGRA",
-        "count": 0
-    },
-    "LibroEducativoReutilizableParaPintarConAguaNinonina": {
-        "name": "LIBRO EDUCATIVO REUTILIZABLE PARA PINTAR CON",
-        "count": 0
-    },
-    "MiniLinternaTactica": {
-        "name": "MINI LINTERNA TACTICA",
-        "count": 0
-    },
-    "PackDe2LentesDeConduccion": {
-        "name": "PACK DE 2 LENTES DE CONDUCCION",
-        "count": 0
-    },
-    "SopladorDeAireComprimido": {
-        "name": "SOPLADOR DE AIRE COMPRIMIDO",
-        "count": 0
-    },
-    "SujetadorDeSeguridadParaCelular2En1": {
-        "name": "SUJETADOR DE SEGURIDAD PARA CELULAR 2 EN 1",
-        "count": 0
-    },
-    "ShampooCubreCanasCastanoOscuro": {
-        "name": "SHAMPOO CUBRE CANAS CASTAÑO OSCURO",
-        "count": 0
-    },
-    "ShampooCubreCanasCastanoClaro": {
-        "name": "SHAMPOO CUBRE CANAS CASTAÑO CLARO",
-        "count": 0
-    }
+    "AdaptadorTaladro": { "name": "ADAPTADOR DE TALADRO", "count": 0 },
+    "SprayImpermeabilizante250ml": { "name": "SPRAY IMPERMEABILIZANTE ANTI-LLUVIAS 250 ML ORIGINAL", "count": 0 },
 
+    "SopladorDeAireComprimido": { "name": "SOPLADOR DE AIRE COMPRIMIDO", "count": 0 },
+    "SujetadorDeSeguridadParaCelular2En1": { "name": "SUJETADOR DE SEGURIDAD PARA CELULAR 2 EN 1", "count": 0 }
 }
-
