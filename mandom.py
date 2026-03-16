@@ -208,9 +208,12 @@ for pdf_file in pdf_files:
     # Guardar resultado
     # -----------------------------
 
-    output_name = pdf_file.replace(".pdf", "_ordenado.pdf")
+    temp_name = "temp_" + pdf_file
 
-    with open(output_name, "wb") as f:
+    with open(temp_name, "wb") as f:
         writer.write(f)
 
-    print("PDF generado:", output_name)
+    # reemplazar el archivo original
+    os.replace(temp_name, pdf_file)
+
+    print("PDF actualizado:", pdf_file)
